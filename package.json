@@ -1,0 +1,22 @@
+{
+  "name": "hello-world-electron",
+  "version": "0.0.1",
+  "description": "Testing https://www.electronjs.org/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Offirmo/hello-world-electron.git"
+  },
+  "author": "Offirmo <offirmo.net@gmail.com>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/Offirmo/hello-world-electron/issues"
+  },
+  "homepage": "https://github.com/Offirmo/hello-world-electron#readme",
+  "devDependencies": {
+    "electron": "^11.0.4"
+  }
+}
